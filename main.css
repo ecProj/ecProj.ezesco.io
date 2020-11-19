@@ -1,0 +1,16 @@
+body {
+  background-color: grey;
+  margin: 0;
+}
+
+.welcomeMessage {
+  background-color: lightgrey;
+  max-width: 80%;
+  margin: auto;
+  padding: 1em 0 1em 0;
+  border: 1px solid black;
+  border-radius: 15px;
+  box-shadow: 10px 10px 1px black;
+  text-align: center;
+  font-size: 5em;
+}
